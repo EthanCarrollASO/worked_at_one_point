@@ -34,4 +34,5 @@ ________________________________________
 0x558e665396f0
 
 ###################################################################################
-Its almost certainly a malloc() error which admittedly I could learn more about. I just thought I would tell you so you would know why im losing my mind. Especially since I sear the code worked fine 2 days ago and that printing the other two arrays in a_p produce no segmentation faults. 
+
+Its almost certainly a malloc() error which admittedly I could learn more about. I just thought I would tell you so you would know why im losing my mind. Especially since I swear the code worked fine 2 days ago and that printing the other two arrays in a_p produce no segmentation faults. 
